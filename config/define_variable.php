@@ -1,0 +1,10 @@
+<?php
+define("__PAGE_SIZE",24);
+define("__BILLPAGE_SIZE",24);
+define('__KEY_CODE',"achiles");
+define('__SECRET_CAPTCHA','6Ld21RYTAAAAANnGbmyN9_v6ef7CgQ1zDaFSZCih');
+define('__KEY_CAPTCHA','6Ld21RYTAAAAACp9M8jYf3362_DKWAvv3cpxf-Cs');
+define('__SPLIT_MEMBER','^');
+define('__SPLIT_ROW',';');
+define('__NEW_LINE',"%");
+?>
