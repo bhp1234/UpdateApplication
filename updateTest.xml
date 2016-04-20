@@ -4,7 +4,7 @@
   <version>3.0.0.0</version> 
   <url>https://github.com/bhp1234/TespApp/raw/master/TestUpdate.exe</url> 
   <fileName>TestApp.exe</fileName> 
-  <md5>E4FCF2E82B26C00058F16FB8109066F9</md5> 
+  <md5>8bbb49b5083af24780a404be4732e6a3</md5> 
   <description>Update: 06/19/2014: 1. Added notification message when the current version is already the latest.</description> 
   <launchArgs /> 
   </update>
