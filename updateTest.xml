@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <sharpUpdate>
+<update appID="Fuson">
+  <version>2.0.0</version> 
+  <url>http://www.achiles-test.somee.com/UpdateApp/phanmemngandinh.exe</url> 
+  <fileName>PhanMemNganDinh.exe</fileName> 
+  <md5>816D89B56B901E0FD6B5CFC9B8378DDC</md5> 
+  <fileReplace>PhanMemNganDinh.exe</fileReplace>
+  <description>Update: 04/22/2016: 1. Cập nhật tính năng update.</description> 
+  <launchArgs /> 
+  </update>
+  </sharpUpdate>
