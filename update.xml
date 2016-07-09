@@ -2,13 +2,11 @@
  <sharpUpdate>
 <update appID="Fuson">
   <version>1.0.0.1</version> 
-  <url>http://download1178.mediafire.com/j66k9p44s8og/9ya5jslcypaim94/PhanMemNganDinh.exe</url> 
+  <url>http://download1706.mediafire.com/d0hxlgf4y33g/p28ya7ji69nnxnc/PhanMemNganDinh.exe</url> 
   <fileName>PhanMemNganDinh.exe</fileName> 
-  <md5>B88D4AC6A0CFA786A4A807B921014ABB</md5> 
+  <md5>e78f3419477a3eed96036a24bae3dfbb</md5> 
   <fileReplace>PhanMemNganDinh.exe</fileReplace>
-  <description>Update: 15/07/2016: 
-  1. Cập nhật tính năng update.
-  2. Cập nhật chiết khấu NCC.</description> 
+  <description></description> 
   <launchArgs /> 
   </update>
   </sharpUpdate>
